@@ -77,7 +77,7 @@ class Data {
     }
 
     static _getBase(posterPath, type){
-        return `/data/images/${type}${posterPath}`;
+        return `data/images/${type}${posterPath}`;
     }
 
 
