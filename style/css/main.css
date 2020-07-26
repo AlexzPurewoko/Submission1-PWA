@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/Quicksand-Regular.otf')
+  }
+
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+main {
+    padding: 10px;
+}

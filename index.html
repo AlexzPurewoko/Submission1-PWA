@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="msapplication-starturl" content="/">
+        <meta name="theme-color" content="#212121"/>
+        <meta name="description" content="Let's find your favorite movie!"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <title>Movies</title>
+        <link rel="manifest" href="/manifest.json">
+        <link rel='icon' type="image/svg" href="/data/icon/movie.svg">
+        <link rel="apple-touch-icon" href="/data/icon/movie.svg">
+        <link rel="stylesheet" href="/style/css/materialize/materialize.min.css">
+        <link rel="stylesheet" href="/style/css/materialize/material-icons.css">
+        <link rel="stylesheet" href="/style/css/main.css">
+    </head>
+    <body class="grey darken-3">
+      <header id='toolbar'>
+
+        <!-- a custom element to display navbar-->
+        <nav-bar class='toolbar' data-target="toolbar" style="width: 100%;"></nav-bar>
+      </header>
+
+      <main style="margin-bottom: 20px;">
+        <!-- Leave its blank because it will triggered on scripts -->
+      </main>
+
+      <aside>
+
+        <!-- custom element for side navigation -->
+        <side-nav></side-nav>
+      </aside>
+
+      <!-- all modules (its separated) -->
+      <script src="/scripts/js/jquery/jquery-3.5.1.min.js"></script>
+      <script src="/scripts/js/materialize/materialize.min.js"></script>
+
+      <!-- for custom elements -->
+      <script src="/scripts/js/movielist.js"></script>
+      <script src="/scripts/js/navbar.js"></script>
+      <script src='/scripts/js/sidenav.js'></script>
+      <script src="/scripts/js/genreBadges/genres.js"></script>
+      <script src="/scripts/js/ratings/rating.js"></script>
+      <script src="/scripts/js/movie-item.js"></script>
+
+      <!-- another modules (its important!) -->
+      <script src='/scripts/js/controller/Data.js'></script>
+      <script src='/scripts/js/controller/MainUIController.js'></script>
+      <script src='/scripts/js/controller/MovieDiscover.js'></script>
+      <script src='/scripts/js/controller/MovieTrending.js'></script>
+      <script src='/scripts/js/controller/AboutMe.js'></script>
+      <script src='/scripts/js/controller/MovieDetail.js'></script>
+      <script src="/scripts/js/controller/MovieLatest.js"></script>
+
+      <!-- for entry controller -->
+      <script src='/scripts/js/main.js'></script>
+
+      <!-- for handling service-worker -->
+      <script>
+        if("serviceWorker" in navigator){
+            window.addEventListener("load", function() {
+                navigator.serviceWorker
+                    .register("/service-worker.js")
+                    .then(_ => console.log("Pendaftaran service-worker berhasil"))
+                    .catch(_ => console.log("Pendaftaran service-worker gagal"));
+            });
+        } else {
+            console.log("Service Worker belum didukung!");
+        }
+      </script>
+    </body>
+</html>

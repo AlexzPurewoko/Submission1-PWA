@@ -1,0 +1,209 @@
+{
+    "page": 1,
+    "total_results": 10000,
+    "total_pages": 500,
+    "results": [
+      {
+        "popularity": 492.072,
+        "vote_count": 3365,
+        "video": false,
+        "poster_path": "/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg",
+        "id": 419704,
+        "adult": false,
+        "backdrop_path": "/5BwqwxMEjeFtdknRV792Svo0K1v.jpg",
+        "original_language": "en",
+        "original_title": "Ad Astra",
+        "genre_ids": [
+          18,
+          878
+        ],
+        "title": "Ad Astra",
+        "vote_average": 6,
+        "overview": "The near future, a time when both hope and hardships drive humanity to look to the stars and beyond. While a mysterious phenomenon menaces to destroy life on planet Earth, astronaut Roy McBride undertakes a mission across the immensity of space and its many perils to uncover the truth about a lost expedition that decades before boldly faced emptiness and silence in search of the unknown.",
+        "release_date": "2019-09-17"
+      },
+      {
+        "popularity": 188.02,
+        "vote_count": 4335,
+        "video": false,
+        "poster_path": "/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg",
+        "id": 330457,
+        "adult": false,
+        "backdrop_path": "/xJWPZIYOEFIjZpBL7SVBGnzRYXp.jpg",
+        "original_language": "en",
+        "original_title": "Frozen II",
+        "genre_ids": [
+          12,
+          16,
+          10751
+        ],
+        "title": "Frozen II",
+        "vote_average": 7.2,
+        "overview": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+        "release_date": "2019-11-20"
+      },
+      {
+        "popularity": 186.093,
+        "vote_count": 2214,
+        "video": false,
+        "poster_path": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+        "id": 338762,
+        "adult": false,
+        "backdrop_path": "/ocUrMYbdjknu2TwzMHKT9PBBQRw.jpg",
+        "original_language": "en",
+        "original_title": "Bloodshot",
+        "genre_ids": [
+          28,
+          18,
+          878
+        ],
+        "title": "Bloodshot",
+        "vote_average": 7.1,
+        "overview": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+        "release_date": "2020-03-05"
+      },
+      {
+        "popularity": 164.473,
+        "vote_count": 1874,
+        "video": false,
+        "poster_path": "/wlfDxbGEsW58vGhFljKkcR5IxDj.jpg",
+        "id": 545609,
+        "adult": false,
+        "backdrop_path": "/1R6cvRtZgsYCkh8UFuWFN33xBP4.jpg",
+        "original_language": "en",
+        "original_title": "Extraction",
+        "genre_ids": [
+          28,
+          18,
+          53
+        ],
+        "title": "Extraction",
+        "vote_average": 7.5,
+        "overview": "Tyler Rake, a fearless mercenary who offers his services on the black market, embarks on a dangerous mission when he is hired to rescue the kidnapped son of a Mumbai crime lord…",
+        "release_date": "2020-04-24"
+      },
+      {
+        "popularity": 171.706,
+        "vote_count": 3866,
+        "video": false,
+        "poster_path": "/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg",
+        "id": 454626,
+        "adult": false,
+        "backdrop_path": "/stmYfCUGd8Iy6kAMBr6AmWqx8Bq.jpg",
+        "original_language": "en",
+        "original_title": "Sonic the Hedgehog",
+        "genre_ids": [
+          28,
+          35,
+          878,
+          10751
+        ],
+        "title": "Sonic the Hedgehog",
+        "vote_average": 7.6,
+        "overview": "Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.",
+        "release_date": "2020-02-12"
+      },
+      {
+        "popularity": 118.245,
+        "vote_count": 1011,
+        "video": false,
+        "poster_path": "/33VdppGbeNxICrFUtW2WpGHvfYc.jpg",
+        "id": 481848,
+        "adult": false,
+        "backdrop_path": "/9sXHqZTet3Zg5tgcc0hCDo8Tn35.jpg",
+        "original_language": "en",
+        "original_title": "The Call of the Wild",
+        "genre_ids": [
+          12,
+          18,
+          10751
+        ],
+        "title": "The Call of the Wild",
+        "vote_average": 7.3,
+        "overview": "Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team—and later its leader—Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.",
+        "release_date": "2020-02-19"
+      },
+      {
+        "popularity": 116.202,
+        "vote_count": 326,
+        "video": false,
+        "poster_path": "/c01Y4suApJ1Wic2xLmaq1QYcfoZ.jpg",
+        "id": 618344,
+        "adult": false,
+        "backdrop_path": "/sQkRiQo3nLrQYMXZodDjNUJKHZV.jpg",
+        "original_language": "en",
+        "original_title": "Justice League Dark: Apokolips War",
+        "genre_ids": [
+          28,
+          12,
+          16,
+          14,
+          878
+        ],
+        "title": "Justice League Dark: Apokolips War",
+        "vote_average": 8.7,
+        "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
+        "release_date": "2020-05-05"
+      },
+      {
+        "popularity": 129.717,
+        "vote_count": 3792,
+        "video": false,
+        "poster_path": "/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg",
+        "id": 495764,
+        "adult": false,
+        "backdrop_path": "/uozb2VeD87YmhoUP1RrGWfzuCrr.jpg",
+        "original_language": "en",
+        "original_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "genre_ids": [
+          28,
+          35,
+          80
+        ],
+        "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "vote_average": 7.2,
+        "overview": "Harley Quinn joins forces with a singer, an assassin and a police detective to help a young girl who had a hit placed on her after she stole a rare diamond from a crime lord.",
+        "release_date": "2020-02-05"
+      },
+      {
+        "popularity": 77.794,
+        "vote_count": 10,
+        "video": false,
+        "poster_path": "/oiFxdnsQyGs3DBLzHzW92GrDR6w.jpg",
+        "id": 682071,
+        "adult": false,
+        "backdrop_path": "/6I6ZhQrX4L4KIxSzlgg8zc1BSLr.jpg",
+        "original_language": "en",
+        "original_title": "To the Beat! Back 2 School",
+        "genre_ids": [
+          35,
+          18,
+          10751
+        ],
+        "title": "To the Beat! Back 2 School",
+        "vote_average": 4.4,
+        "overview": "Sisterhood is tested, rivalries heat up and new bonds are formed when students go back to their performing arts school to compete for an all-expense paid summer scholarship program to a prestigious Conservatory of Fine Arts.",
+        "release_date": "2020-03-10"
+      },
+      {
+        "popularity": 107.394,
+        "vote_count": 3857,
+        "video": false,
+        "poster_path": "/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg",
+        "id": 38700,
+        "adult": false,
+        "backdrop_path": "/upUy2QhMZEmtypPW3PdieKLAHxh.jpg",
+        "original_language": "en",
+        "original_title": "Bad Boys for Life",
+        "genre_ids": [
+          28,
+          80,
+          53
+        ],
+        "title": "Bad Boys for Life",
+        "vote_average": 7.2,
+        "overview": "Marcus and Mike are forced to confront new threats, career changes, and midlife crises as they join the newly created elite team AMMO of the Miami police department to take down the ruthless Armando Armas, the vicious leader of a Miami drug cartel.",
+        "release_date": "2020-01-15"
+      }
+    ]
+  }
