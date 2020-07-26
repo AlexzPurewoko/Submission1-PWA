@@ -5,8 +5,8 @@
   "background_color": "#2c2c2d",
   "display": "standalone",
   "description": "Let's find your favorite movie!",
-  "Scope": "/",
-  "start_url": "/index.html",
+  "Scope": "/Submission1-PWA",
+  "start_url": "/Submission1-PWA/index.html",
   "icons": [
     {
       "src": "data/icon/icon-72x72.png",
