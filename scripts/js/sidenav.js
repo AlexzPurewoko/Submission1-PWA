@@ -5,9 +5,9 @@ class SideNav extends HTMLElement {
             <li>
                 <div class="user-view">
                     <div class="background">
-                        <img src="/data/images/office.jpg">
+                        <img src="data/images/office.jpg">
                     </div>
-                    <a href="#user"><img class="circle" src="/data/images/me.jpg"></a>
+                    <a href="#user"><img class="circle" src="data/images/me.jpg"></a>
                     <a href="#name"><span class="white-text name" style="font-weight: bold;font-family: sans-serif;">Alexzander Purwoko Widiantoro</span></a>
                     <a href="#email"><span class="white-text email" style="font-family: sans-serif;">purwoko908@gmail.com</span></a>
                 </div>

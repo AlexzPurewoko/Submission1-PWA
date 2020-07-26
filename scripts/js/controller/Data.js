@@ -1,11 +1,11 @@
 class Data {
 
     static loadGenres(callback) {
-        this._get('/data/json/genres.json', callback);
+        this._get('data/json/genres.json', callback);
     }
 
     static getTrending(callback, genres) {
-        this._get('/data/json/trending.json', (fail, response, error) => {
+        this._get('data/json/trending.json', (fail, response, error) => {
             if(!fail) {
                 callback(false, this._composeN(response, genres, 'trending'), null);
             } else {
@@ -15,7 +15,7 @@ class Data {
     }
 
     static getDiscover(callback, genres){
-        this._get('/data/json/discover.json', (fail, response, error) => {
+        this._get('data/json/discover.json', (fail, response, error) => {
             if(!fail) {
                 callback(false, this._composeN(response, genres, 'discover'), null);
             } else {
@@ -25,7 +25,7 @@ class Data {
     }
 
     static getLatest(callback) {
-        this._get('/data/json/latest.json', (fail, response, error) => {
+        this._get('data/json/latest.json', (fail, response, error) => {
             if(!fail) {
                 callback(false, this._composeA(response, 'latest'), null );
             } else {

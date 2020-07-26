@@ -20,7 +20,7 @@ class MovieItem extends HTMLElement {
         this.innerHTML = `
             <div class='row white-text'>
                 <div class='col s12 m3 l2'>
-                    <img style="display:block;margin-left:auto;margin-right:auto;" class="materialbox responsive-img hoverable" alt='movie poster' src='${_movieData.posterPath}' onerror="this.onerror=null;this.src='/data/images/warning-icon.svg';">
+                    <img style="display:block;margin-left:auto;margin-right:auto;" class="materialbox responsive-img hoverable" alt='movie poster' src='${_movieData.posterPath}' onerror="this.onerror=null;this.src='data/images/warning-icon.svg';">
                 </div>
                 <div class='col s12 m9 l10'>
                     <h4 class="white-text" style="margin-bottom:0;">${_movieData.name}</h4>

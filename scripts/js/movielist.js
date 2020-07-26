@@ -36,7 +36,7 @@ class MovieList extends HTMLElement {
                         <div class="col s6 m2">
                             <div class="card grey darken-4">
                                 <div class="card-image">
-                                    <img class='hoverable' src="${element.posterPath}" onerror="this.onerror=null;this.src='/data/images/warning-icon.svg';">
+                                    <img class='hoverable' src="${element.posterPath}" onerror="this.onerror=null;this.src='data/images/warning-icon.svg';">
                                 </div>
                             </div>
                         </div>
