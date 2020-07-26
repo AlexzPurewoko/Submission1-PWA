@@ -77,7 +77,7 @@ class Data {
     }
 
     static _getBase(posterPath, type){
-        return `data/images/${type}${posterPath}`;
+        return `/Submission1-PWA/data/images/${type}${posterPath}`;
     }
 
 
